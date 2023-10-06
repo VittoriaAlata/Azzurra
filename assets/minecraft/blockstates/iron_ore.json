@@ -1,0 +1,105 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "minecraft:block/iron_ore"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore1"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore2"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore3"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore4"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore5"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore6"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore7"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore8"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore9"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore10"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore11"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore12"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore13"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore14"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore15"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore16"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore17"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore18"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore19"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore20"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore21"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore22"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore23"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore24"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore25"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore26"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore27"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore28"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore29"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore30"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore31"
+    },
+    {
+      "model": "minecraft:block/variants/iron_ore/iron_ore32"
+    }
+  ]
+}
+} 

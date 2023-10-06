@@ -1,0 +1,27 @@
+{
+	"credit": "Made by pg_c",
+	"parent": "minecraft:block/block",
+	"textures": {
+        "particle": "#all",
+        "north": "#all",
+        "east": "#all",
+        "south": "#all",
+        "west": "#all",
+        "up": "#all",
+        "down": "#all"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 16, 16, 0], "rotation": 270, "texture": "#north","cullface": "north"},
+				"east": {"uv": [16, 16, 0, 0], "rotation": 270, "texture": "#east", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#south", "cullface": "south"},
+				"west": {"uv": [16, 0, 0, 16], "rotation": 270, "texture": "#west", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#up", "cullface": "up"},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#down","cullface": "down"}
+			}
+		}
+	]
+}

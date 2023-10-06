@@ -1,0 +1,23 @@
+{
+    "itemGroup.buildingBlocks": " Blocs de construction",
+    "itemGroup.coloredBlocks": " Blocs colorés",
+    "itemGroup.combat": " Combat",
+    "itemGroup.consumables": " Consommables",
+    "itemGroup.crafting": " Fabrication",
+    "itemGroup.foodAndDrink": " Nourriture et boissons",
+    "itemGroup.functional": " Blocs fonctionnels",
+    "itemGroup.hotbar": " Barres d'action sauvegardées",
+    "itemGroup.ingredients": " Ingrédients",
+    "itemGroup.inventory": "Inventaire du mode Survie",
+    "itemGroup.natural": " Blocs naturels",
+    "itemGroup.op": " Utilitaires d'opérateur",
+    "itemGroup.redstone": " Redstone",
+    "itemGroup.search": " Rechercher",
+    "itemGroup.spawnEggs": " Œufs d'apparition",
+    "itemGroup.tools": " Outils et utilitaires",
+      "itemGroup.decorations": " Blocs d\u00e9coratifs",
+      "itemGroup.transportation": " Moyens de transport",
+      "itemGroup.misc": " Divers",
+      "itemGroup.food": " Nourriture",
+      "itemGroup.brewing": " Potions"
+    }

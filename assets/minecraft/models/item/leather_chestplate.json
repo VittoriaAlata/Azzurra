@@ -1,0 +1,7 @@
+{
+    "parent": "item/armor_handheld",
+    "textures": {
+        "layer0": "item/leather_chestplate",
+        "layer1": "item/leather_chestplate_overlay"
+    }
+}

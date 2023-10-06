@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/vertical_side_cube",
+  "textures": {
+    "all": "minecraft:block/crimson_planks"
+  }
+}

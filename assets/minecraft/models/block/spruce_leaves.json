@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/v_leaves",
+  "textures": {
+    "all": "minecraft:block/spruce_leaves",
+    "leaves_layer": "minecraft:block/layer/spruce_leaves_layer"
+  }
+}
