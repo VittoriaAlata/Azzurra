@@ -14,14 +14,14 @@ void main() {
     if (color.a == 0.0) {
         discard;
     }
-        if (distance(color.rgb, vec3(16 / 255.0)) < 0.01) {
+    if (distance(color.rgb, vec3(16 / 255.0)) < 0.01) {
         vec4 textColor = mix(vec4(1), vertexColor, 0.7);
         vec4 backgroundColor = vertexColor;
 
         ivec2 pixel = ivec2(gl_FragCoord.xy);
         ivec2 offset = pixel - ivec2(10, 65);
         if (offset.x >= 0 && offset.y >= 0 && offset.x < 622 && offset.y < 12) {
-            uint[] TEXT = uint[](_P, _G, _SPACE, _P, _A, _C, _K, _SPACE, _M, _A, _D, _E, _SPACE, _B, _Y, _SPACE, _P, _G, _USCORE, _C, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE);
+            uint[] TEXT = uint[](_P, _G, _SPACE, _P, _A, _C, _K, _SPACE, _M, _A, _D, _E, _SPACE, _B, _Y, _SPACE, _V, _I, _T, _T, _O, _R, _I, _A, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE);
             for (int i = 0; i < 52; i++) {
                 int startX = i * 12;
                 int endX = startX + 10;
@@ -74,7 +74,7 @@ void main() {
         }
         offset = pixel - ivec2(10, 5);
         if (offset.x >= 0 && offset.y >= 0 && offset.x < 514 && offset.y < 12) {
-            uint[] TEXT = uint[](_PARENL, _U, _N, _I, _V, _E, _R, _S, _A, _L, _SPACE, _V, _E, _R, _S, _I, _O, _N, _PARENR, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _PARENL, _B, _1, _DOT, _0, _DOT, _8, _PARENR, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE);
+            uint[] TEXT = uint[](_PARENL, _D, _E, _V, _E, _L, _O, _P, _E, _R, _SPACE, _V, _E, _R, _S, _I, _O, _N, _PARENR, _SPACE, _SPACE, _PARENL, _V, _1, _DOT, _8, _SCORE, _SPACE, _B, _E, _T, _A, _DOT, _1, _PARENR, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE);
             for (int i = 0; i < 43; i++) {
                 int startX = i * 12;
                 int endX = startX + 10;
