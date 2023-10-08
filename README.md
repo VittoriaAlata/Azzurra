@@ -19,9 +19,9 @@ La Pg Pack adds vanilla-friendly features, vanilla shaders, building tweaks and 
 ### Dark Theme: ON
 
 # Supports:
-|Clients|Mods|Render|
-|:---------------------:|:---------------------:|:---------------------:|
-|[Fabric](https://modrinth.com/mod/fabric-api 'Fabric')|[REI](https://modrinth.com/mod/rei 'REI')|[Canvas Renderer](https://modrinth.com/mod/canvas 'Canvas')|
+|Clients|Mods|Render|Graphics|
+|:---------------------:|:---------------------:|:---------------------:|:-----------------------------:|
+|[Fabric](https://modrinth.com/mod/fabric-api 'Fabric')|[REI](https://modrinth.com/mod/rei 'REI')|[Canvas Renderer](https://modrinth.com/mod/canvas 'Canvas')|[PBR](https://www.nvidia.com/en-us/geforce/guides/minecraft-rtx-texturing-guide/ 'PBR Guide')
 |[Quilt](https://quiltmc.org/ 'Quilt')|[Mod Menu](https://modrinth.com/mod/modmenu 'Mod Menu')|[Sodium](https://modrinth.com/mod/sodium 'Sodium')|
 |[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/ 'Forge')|[Capes](https://modrinth.com/mod/capes 'Capes')|[Iris](https://modrinth.com/mod/iris 'Iris')|
 |[NeoForge](https://neoforged.net 'NeoForge')|[Replay](https://modrinth.com/mod/replaymod 'Replay')|                                     |
@@ -66,9 +66,9 @@ La Pg Pack aggiunge funzionalità vanilla-friendly, shader vanilla, core shaders
 
 
  # Supporta:
-|Clients|Mods|Render|
-|:---------------------:|:---------------------:|:---------------------:|
-|[Fabric](https://modrinth.com/mod/fabric-api 'Fabric')|[REI](https://modrinth.com/mod/rei 'REI')|[Canvas Renderer](https://modrinth.com/mod/canvas 'Canvas')|
+|Clients|Mods|Render|Graphics|
+|:---------------------:|:---------------------:|:---------------------:|:-----------------------------:|
+|[Fabric](https://modrinth.com/mod/fabric-api 'Fabric')|[REI](https://modrinth.com/mod/rei 'REI')|[Canvas Renderer](https://modrinth.com/mod/canvas 'Canvas')|[PBR](https://www.nvidia.com/en-us/geforce/guides/minecraft-rtx-texturing-guide/ 'PBR Guide')
 |[Quilt](https://quiltmc.org/ 'Quilt')|[Mod Menu](https://modrinth.com/mod/modmenu 'Mod Menu')|[Sodium](https://modrinth.com/mod/sodium 'Sodium')|
 |[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/ 'Forge')|[Capes](https://modrinth.com/mod/capes 'Capes')|[Iris](https://modrinth.com/mod/iris 'Iris')|
 |[NeoForge](https://neoforged.net 'NeoForge')|[Replay](https://modrinth.com/mod/replaymod 'Replay')|                                     |
