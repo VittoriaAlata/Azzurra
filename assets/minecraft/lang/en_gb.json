@@ -1,7 +1,7 @@
 {
-  "menu.modded": " (Modded §7§oPg Pack v1.8-beta.2§r)",
-  "debug.prefix": "§r§3|Debug§r §7§oPg Pack v1.8-beta.2§r >>",
-  "title.multiplayer.other": "Multiplayer 3rd-party Server, Client using Pg Pack v1.8-beta.2",
+  "menu.modded": " (Modded §7§oPg Pack v1.8-beta.3§r)",
+  "debug.prefix": "§r§3|Debug§r §7§oPg Pack v1.8-beta.3§r >>",
+  "title.multiplayer.other": "Multiplayer 3rd-party Server, Client using Pg Pack v1.8-beta.3",
 "options.resourcepack": "Resourcepacks",
 "debug.reload_resourcepacks.message": "Reloaded resource packs",
 "debug.advanced_tooltips.off": "Advanced tooltips: hidden",
