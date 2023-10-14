@@ -74,7 +74,7 @@ void main() {
         }
         offset = pixel - ivec2(10, 5);
         if (offset.x >= 0 && offset.y >= 0 && offset.x < 514 && offset.y < 12) {
-            uint[] TEXT = uint[](_PARENL, _U, _N, _I, _V, _E, _R, _S, _A, _L, _SPACE, _V, _E, _R, _S, _I, _O, _N, _PARENR, _SPACE, _SPACE, _PARENL, _V, _1, _DOT, _8, _SCORE, _SPACE, _B, _E, _T, _A, _DOT, _4, _PARENR, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE);
+            uint[] TEXT = uint[](_PARENL, _U, _N, _I, _V, _E, _R, _S, _A, _L, _SPACE, _V, _E, _R, _S, _I, _O, _N, _PARENR, _SPACE, _SPACE, _PARENL, _V, _1, _DOT, _9, _SCORE, _SPACE, _B, _E, _T, _A, _DOT, _1, _PARENR, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE);
             for (int i = 0; i < 43; i++) {
                 int startX = i * 12;
                 int endX = startX + 10;
