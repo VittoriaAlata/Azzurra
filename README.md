@@ -23,14 +23,14 @@
 ### Dark Theme: ON
 
 # Supports:
-|Clients|Mods|Render|Graphics|
-|:---------------------:|:---------------------:|:---------------------:|:-----------------------------:|
-|[Fabric](https://modrinth.com/mod/fabric-api 'Fabric')|[REI](https://modrinth.com/mod/rei 'REI')|[Canvas Renderer](https://modrinth.com/mod/canvas 'Canvas')|[PBR](https://www.nvidia.com/en-us/geforce/guides/minecraft-rtx-texturing-guide/ 'PBR Guide')
+|Clients|Mods|Render|Graphics|Shaders|
+|:---------------------:|:---------------------:|:---------------------:|:-----------------------------:|:--------------------:|
+|[Fabric](https://modrinth.com/mod/fabric-api 'Fabric')|[REI](https://modrinth.com/mod/rei 'REI')|[Canvas Renderer](https://modrinth.com/mod/canvas 'Canvas')|[PBR](https://www.nvidia.com/en-us/geforce/guides/minecraft-rtx-texturing-guide/ 'PBR Guide')|[Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined 'Complementary Reimagined')|
 |[Quilt](https://quiltmc.org/ 'Quilt')|[Mod Menu](https://modrinth.com/mod/modmenu 'Mod Menu')|[Sodium](https://modrinth.com/mod/sodium 'Sodium')|[Favola](https://github.com/bradleyq/mc_vanilla_shaders 'Favola')
-|[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/ 'Forge')|[Capes](https://modrinth.com/mod/capes 'Capes')|[Iris](https://modrinth.com/mod/iris 'Iris')|
-|[NeoForge](https://neoforged.net 'NeoForge')|[Replay](https://modrinth.com/mod/replaymod 'Replay')|                                     |
-|[Optifine](https://optifine.net/ 'Optifine')                            |[ETF](https://modrinth.com/mod/entitytexturefeatures 'ETF')|                               |
-|                                            |[No Chat Reports](https://modrinth.com/mod/no-chat-reports 'No Chat Reports')              |
+|[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/ 'Forge')|[Capes](https://modrinth.com/mod/capes 'Capes')|[Iris](https://modrinth.com/mod/iris 'Iris')|[CTM](https://optifine.readthedocs.io/ctm.html 'CTM')
+|[NeoForge](https://neoforged.net 'NeoForge')|[Replay](https://modrinth.com/mod/replaymod 'Replay')|[Optifine](https://optifine.net/ 'Optifine')|[Emissive](https://optifine.readthedocs.io/emissive_textures.html?h=emissive 'Emissive')|
+||[ETF](https://modrinth.com/mod/entitytexturefeatures 'ETF')|[MCpatcher](https://bitbucket.org/prupe/mcpatcher/src/master/ 'MCpatcher')||
+||[No Chat Reports](https://modrinth.com/mod/no-chat-reports 'No Chat Reports')||||
 ||[Auth Me](https://modrinth.com/mod/auth-me 'Auth Me')
 
 ![CRT](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/401ae539197237caac13a922dd6ede2d8ce62703.png)
@@ -78,14 +78,14 @@ Some of differenti Rendering Mod/Client like: Optifine, Sodium, Canvas, Iris do 
 
 
  # Supporta:
-|Clients|Mods|Render|Graphics|
-|:---------------------:|:---------------------:|:---------------------:|:-----------------------------:|
-|[Fabric](https://modrinth.com/mod/fabric-api 'Fabric')|[REI](https://modrinth.com/mod/rei 'REI')|[Canvas Renderer](https://modrinth.com/mod/canvas 'Canvas')|[PBR](https://www.nvidia.com/en-us/geforce/guides/minecraft-rtx-texturing-guide/ 'PBR Guide')
+|Clients|Mods|Render|Graphics|Shaders|
+|:---------------------:|:---------------------:|:---------------------:|:-----------------------------:|:--------------------:|
+|[Fabric](https://modrinth.com/mod/fabric-api 'Fabric')|[REI](https://modrinth.com/mod/rei 'REI')|[Canvas Renderer](https://modrinth.com/mod/canvas 'Canvas')|[PBR](https://www.nvidia.com/en-us/geforce/guides/minecraft-rtx-texturing-guide/ 'PBR Guide')|[Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined 'Complementary Reimagined')|
 |[Quilt](https://quiltmc.org/ 'Quilt')|[Mod Menu](https://modrinth.com/mod/modmenu 'Mod Menu')|[Sodium](https://modrinth.com/mod/sodium 'Sodium')|[Favola](https://github.com/bradleyq/mc_vanilla_shaders 'Favola')
-|[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/ 'Forge')|[Capes](https://modrinth.com/mod/capes 'Capes')|[Iris](https://modrinth.com/mod/iris 'Iris')|
-|[NeoForge](https://neoforged.net 'NeoForge')|[Replay](https://modrinth.com/mod/replaymod 'Replay')|                                     |
-|[Optifine](https://optifine.net/ 'Optifine')                            |[ETF](https://modrinth.com/mod/entitytexturefeatures 'ETF')|                               |
-|                                            |[No Chat Reports](https://modrinth.com/mod/no-chat-reports 'No Chat Reports')              |
+|[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/ 'Forge')|[Capes](https://modrinth.com/mod/capes 'Capes')|[Iris](https://modrinth.com/mod/iris 'Iris')|[CTM](https://optifine.readthedocs.io/ctm.html 'CTM')
+|[NeoForge](https://neoforged.net 'NeoForge')|[Replay](https://modrinth.com/mod/replaymod 'Replay')|[Optifine](https://optifine.net/ 'Optifine')|[Emissive](https://optifine.readthedocs.io/emissive_textures.html?h=emissive 'Emissive')|
+||[ETF](https://modrinth.com/mod/entitytexturefeatures 'ETF')|[MCpatcher](https://bitbucket.org/prupe/mcpatcher/src/master/ 'MCpatcher')||
+||[No Chat Reports](https://modrinth.com/mod/no-chat-reports 'No Chat Reports')||||
 ||[Auth Me](https://modrinth.com/mod/auth-me 'Auth Me')
 
 ![CRT](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/401ae539197237caac13a922dd6ede2d8ce62703.png)
