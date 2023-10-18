@@ -1,7 +1,7 @@
 {
-  "menu.modded": " (Modded §7§oPg Pack v1.9-beta.1§r)",
-  "debug.prefix": "§r§3|Debug§r §7§oPg Pack v1.9-beta.1§r >>",
-  "title.multiplayer.other": "Multiplayer 3rd-party Server, Client using Pg Pack v1.9-beta.1",
+  "menu.modded": " (Modded §7Azzurra v2.0.0§r)",
+  "debug.prefix": "§r§3|Debug§r §7Azzurra v2.0.0§r >>",
+  "title.multiplayer.other": "Multiplayer 3rd-party Server, Client using Azzurra v2.0.0",
 "options.resourcepack": "Resourcepacks",
 "debug.reload_resourcepacks.message": "Reloaded resource packs",
 "debug.advanced_tooltips.off": "Advanced tooltips: hidden",
