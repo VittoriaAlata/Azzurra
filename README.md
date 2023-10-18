@@ -1,7 +1,7 @@
 # Pg Pack
-#### This is my resource pack, Pg Pack. The pack tries to be compatible with all Minecraft versions, if you want to have a better experience use Minecraft versions higher than 1.17 snapshot 21w10a.
-#### I created this package for the need to have a Minecraft that you could play admiring it and without large upheavals, I wanted to realize the ideas that came to mind. Afther many packs it occurred to me to put together my packs: The first versions of the Pigi Pack, New Menus Pack, Overlayed Texture.  So I modified the package to make it compatible, fixed multiple bugs and renamed the Pigi Pack to Pg Pack. The first version of the Pigi Pack was called Obsidian Light and it was created in 2018. Obsidian Light was initially a test to see new fonts and create small shaders.
-#### La Pg Pack adds vanilla-friendly features, vanilla shaders, building tweaks and mod support for fabric and forge.
+ This is my resource pack, Pg Pack. The pack tries to be compatible with all Minecraft versions, if you want to have a better experience use Minecraft versions higher than 1.17 snapshot 21w10a.
+ I created this package for the need to have a Minecraft that you could play admiring it and without large upheavals, I wanted to realize the ideas that came to mind. Afther many packs it occurred to me to put together my packs: The first versions of the Pigi Pack, New Menus Pack, Overlayed Texture.  So I modified the package to make it compatible, fixed multiple bugs and renamed the Pigi Pack to Pg Pack. The first version of the Pigi Pack was called Obsidian Light and it was created in 2018. Obsidian Light was initially a test to see new fonts and create small shaders.
+ La Pg Pack adds vanilla-friendly features, vanilla shaders, building tweaks and mod support for fabric and forge.
 
 ![Pg Pack](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/2bcc2f3b67f838e75cbbb7cd5cf84e72142802ae.png)
 ![Pg Pack](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/95828422a7bccc7fe2ea8aa02bafd9e21b99a195.png)
@@ -9,18 +9,18 @@
 ![Pg Pack](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/63efaa1f5232e2cbc907e210c311f8b79024c223.png)
 
 # Settings Preferences:
-## Language
-### English: United Kingdom
-### English: United States
-### Italiano: Italia
-### Française: France
+## [Language](https://github.com/pg-c/Pg-Pack/tree/main/assets/minecraft/lang)
+- English: United Kingdom
+- English: United States
+- Italiano: Italia
+- Française: France
 ## Video Settings
-### Graphics : Fancy or Fabulous
-### GUI Scale : 2-3
-### Brightness : 50
-### Trees : Default
-## REI
-### Dark Theme: ON
+- Graphics : Fancy or Fabulous
+- GUI Scale : 2-3
+- Brightness : 50
+- Trees : Default
+## [REI](https://modrinth.com/mod/rei)
+- Dark Theme: ON
 
 # Supports:
 |Clients|Mods|Render|Graphics|Shaders|
@@ -53,9 +53,9 @@ Some of differenti Rendering Mod/Client like: Optifine, Sodium, Canvas, Iris do 
 
 
 # Pg Pack
-#### Questa è la mia Resoucepack, la Pg Pack. Il pacchetto cerca di essere compatibile con tutte le versioni di Minecraft, se si vuole avere un'esperienza migliore utilizzare le versioni di Minecraft superiori alla 1.17 snapshot 21w10a. 
-#### Ho creato questo pacchetto per la necessità di avere un Minecraft che si potesse giocare ammirandolo e senza grandi stravolgimenti, volevo realizzare le idee che mi venivano in mente. Dopo molti pacchetti mi è venuto in mente di mettere insieme le pack che avevo accumulato negli anni: Le prime versioni del Pigi Pack, New Menus Pack, Overlayed Texture. Così ho modificato il pacchetto per renderlo compatibile, corretto bug e rinominato la Pigi Pack in Pg Pack. La prima versione della Pigi Pack si chiamava Obsidian Light ed è stata creata nel 2018. Obsidian Light era inizialmente un test per provare nuovi font e creare piccole shader.
-#### La Pg Pack aggiunge funzionalità vanilla-friendly, shader vanilla, core shaders e molte innovazione per le build, ha il mod support per fabric e forge.
+Questa è la mia Resoucepack, la Pg Pack. Il pacchetto cerca di essere compatibile con tutte le versioni di Minecraft, se si vuole avere un'esperienza migliore utilizzare le versioni di Minecraft superiori alla 1.17 snapshot 21w10a. 
+Ho creato questo pacchetto per la necessità di avere un Minecraft che si potesse giocare ammirandolo e senza grandi stravolgimenti, volevo realizzare le idee che mi venivano in mente. Dopo molti pacchetti mi è venuto in mente di mettere insieme le pack che avevo accumulato negli anni: Le prime versioni del Pigi Pack, New Menus Pack, Overlayed Texture. Così ho modificato il pacchetto per renderlo compatibile, corretto bug e rinominato la Pigi Pack in Pg Pack. La prima versione della Pigi Pack si chiamava Obsidian Light ed è stata creata nel 2018. Obsidian Light era inizialmente un test per provare nuovi font e creare piccole shader.
+La Pg Pack aggiunge funzionalità vanilla-friendly, shader vanilla, core shaders e molte innovazione per le build, ha il mod support per fabric e forge.
 
 ![Pg Pack](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/2bcc2f3b67f838e75cbbb7cd5cf84e72142802ae.png)
 ![Pg Pack](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/95828422a7bccc7fe2ea8aa02bafd9e21b99a195.png)
@@ -63,18 +63,18 @@ Some of differenti Rendering Mod/Client like: Optifine, Sodium, Canvas, Iris do 
 ![Pg Pack](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/63efaa1f5232e2cbc907e210c311f8b79024c223.png)
 
  # Preferenze nelle impostazioni:
-## Lingua
-### Italiano: Italia
-### Française: France
-### English: United Kingdom
-### English: United States
+## [Lingua](https://github.com/pg-c/Pg-Pack/tree/main/assets/minecraft/lang)
+- Italiano: Italia
+- Française: France
+- English: United Kingdom
+- English: United States
 ## Impostazioni video
-### Grafica: fantasia o fabula
-### Scala GUI: 2-3
-### Luminosità: 50
-### Alberi: Normali
-## REI
-### Dark Theme: ON
+- Grafica: fantasia o fabula
+- Scala GUI: 2-3
+- Luminosità: 50
+- Alberi: Normali
+## [REI](https://modrinth.com/mod/rei)
+- Dark Theme: ON
 
 
  # Supporta:
