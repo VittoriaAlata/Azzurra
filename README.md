@@ -30,9 +30,10 @@ The Azzurra adds vanilla-friendly features, vanilla shaders, building tweaks and
 |[Quilt](https://quiltmc.org/ 'Quilt')|[Mod Menu](https://modrinth.com/mod/modmenu 'Mod Menu')|[Sodium](https://modrinth.com/mod/sodium 'Sodium')|[Favola](https://github.com/bradleyq/mc_vanilla_shaders 'Favola')
 |[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/ 'Forge')|[Capes](https://modrinth.com/mod/capes 'Capes')|[Iris](https://modrinth.com/mod/iris 'Iris')|[CTM](https://optifine.readthedocs.io/ctm.html 'CTM')
 |[NeoForge](https://neoforged.net 'NeoForge')|[Replay](https://modrinth.com/mod/replaymod 'Replay')|[Optifine](https://optifine.net/ 'Optifine')|[Emissive](https://optifine.readthedocs.io/emissive_textures.html?h=emissive 'Emissive')|
-||[ETF](https://modrinth.com/mod/entitytexturefeatures 'ETF')|[MCpatcher](https://bitbucket.org/prupe/mcpatcher/src/master/ 'MCpatcher')||
+||[ETF](https://modrinth.com/mod/entitytexturefeatures 'ETF')|[MCpatcher](https://bitbucket.org/prupe/mcpatcher/src/master/ 'MCpatcher')|[Loading](https://optifine.readthedocs.io/custom_loading_screens.html 'Custom Loading Screens')|
 ||[No Chat Reports](https://modrinth.com/mod/no-chat-reports 'No Chat Reports')||||
-||[Auth Me](https://modrinth.com/mod/auth-me 'Auth Me')
+||[Auth Me](https://modrinth.com/mod/auth-me 'Auth Me')|||
+||[Loading Backgrounds](https://modrinth.com/mod/loading-backgrounds 'Loading Backgrounds')|
 
 ![CRT](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/401ae539197237caac13a922dd6ede2d8ce62703.png)
 
@@ -86,9 +87,10 @@ La Azzurra aggiunge funzionalità vanilla-friendly, shader vanilla, core shaders
 |[Quilt](https://quiltmc.org/ 'Quilt')|[Mod Menu](https://modrinth.com/mod/modmenu 'Mod Menu')|[Sodium](https://modrinth.com/mod/sodium 'Sodium')|[Favola](https://github.com/bradleyq/mc_vanilla_shaders 'Favola')
 |[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/ 'Forge')|[Capes](https://modrinth.com/mod/capes 'Capes')|[Iris](https://modrinth.com/mod/iris 'Iris')|[CTM](https://optifine.readthedocs.io/ctm.html 'CTM')
 |[NeoForge](https://neoforged.net 'NeoForge')|[Replay](https://modrinth.com/mod/replaymod 'Replay')|[Optifine](https://optifine.net/ 'Optifine')|[Emissive](https://optifine.readthedocs.io/emissive_textures.html?h=emissive 'Emissive')|
-||[ETF](https://modrinth.com/mod/entitytexturefeatures 'ETF')|[MCpatcher](https://bitbucket.org/prupe/mcpatcher/src/master/ 'MCpatcher')||
+||[ETF](https://modrinth.com/mod/entitytexturefeatures 'ETF')|[MCpatcher](https://bitbucket.org/prupe/mcpatcher/src/master/ 'MCpatcher')|[Loading](https://optifine.readthedocs.io/custom_loading_screens.html 'Custom Loading Screens')|
 ||[No Chat Reports](https://modrinth.com/mod/no-chat-reports 'No Chat Reports')||||
-||[Auth Me](https://modrinth.com/mod/auth-me 'Auth Me')
+||[Auth Me](https://modrinth.com/mod/auth-me 'Auth Me')|||
+||[Loading Backgrounds](https://modrinth.com/mod/loading-backgrounds 'Loading Backgrounds')|
 
 ![CRT](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/401ae539197237caac13a922dd6ede2d8ce62703.png)
 
