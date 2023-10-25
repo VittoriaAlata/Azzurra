@@ -5,7 +5,8 @@
 		"bottom": "block/enchanting_table_bottom",
 		"top": "block/enchanting_table_top",
 		"side": "block/enchanting_table_side",
-		"layer": "block/layer/obsidian_layer"
+		"layer": "block/layer/obsidian_layer",
+		"particle": "block/obsidian"
 	},
 	"elements": [
 		{
