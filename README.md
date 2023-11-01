@@ -1,4 +1,5 @@
-# Azzurra
+![Azzurra Logo](https://i.imgur.com/R8KRwEq.png)
+
  This is my resource pack, Azzurra. The pack tries to be compatible with all Minecraft versions, if you want to have a better experience use Minecraft versions higher than 1.17 snapshot 21w10a.
  I created this package for the need to have a Minecraft that you could play admiring it and without large upheavals, I wanted to realize the ideas that came to mind. Afther many packs it occurred to me to put together my packs: The first versions of the Pigi Pack, New Menus Pack, Overlayed Texture.  So I modified the package to make it compatible, fixed multiple bugs and renamed the Pigi Pack to Pg Pack. The first version of the Pigi Pack was called Obsidian Light and it was created in 2018. Obsidian Light was initially a test to see new fonts and create small shaders.
 In the first release of the pack the pack was then called Azzurra from the name of its creator.
