@@ -1,4 +1,5 @@
-# Azzurra
+![Azzurra Logo](https://i.imgur.com/R8KRwEq.png)
+
  This is my resource pack, Azzurra. The pack tries to be compatible with all Minecraft versions, if you want to have a better experience use Minecraft versions higher than 1.17 snapshot 21w10a.
  I created this package for the need to have a Minecraft that you could play admiring it and without large upheavals, I wanted to realize the ideas that came to mind. Afther many packs it occurred to me to put together my packs: The first versions of the Pigi Pack, New Menus Pack, Overlayed Texture.  So I modified the package to make it compatible, fixed multiple bugs and renamed the Pigi Pack to Pg Pack. The first version of the Pigi Pack was called Obsidian Light and it was created in 2018. Obsidian Light was initially a test to see new fonts and create small shaders.
 In the first release of the pack the pack was then called Azzurra from the name of its creator.
@@ -8,6 +9,18 @@ The Azzurra adds vanilla-friendly features, vanilla shaders, building tweaks and
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/95828422a7bccc7fe2ea8aa02bafd9e21b99a195.png)
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/078a78237f1c17db0d9a569809a17f3bd8ca2659.png)
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/63efaa1f5232e2cbc907e210c311f8b79024c223.png)
+
+
+
+![Add-ons](https://i.imgur.com/CXrL4To.png)
+## RCP
+- Adds greater efficiency and compatibility with versions from 1.19.2 to 1.11 and allows Azzurra to work well in these versions. To be used only if you use these versions!
+## CRT
+- It gives the perception of playing on a cathode ray tube television, it is highly recommended to use it when you want to have a different vision of the world. To use it you need to activate Fabula graphics
+
+![CRT](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/401ae539197237caac13a922dd6ede2d8ce62703.png)
+
+# All Add-ons are present in the pack zip and are dependent on it, they cannot be played without it. To use the Add-ons you must place them on top of the main pack.
 
 # Settings Preferences:
 ## [Language](https://github.com/pg-c/Pg-Pack/tree/main/assets/minecraft/lang)
@@ -35,11 +48,6 @@ The Azzurra adds vanilla-friendly features, vanilla shaders, building tweaks and
 ||[Auth Me](https://modrinth.com/mod/auth-me 'Auth Me')|||
 ||[Loading Backgrounds](https://modrinth.com/mod/loading-backgrounds 'Loading Backgrounds')|
 
-![CRT](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/401ae539197237caac13a922dd6ede2d8ce62703.png)
-
-## By 1.11 to 1.19.2
-### For activate this feature use the RCP (Retro Compatible Pack) Add-on, you can find it in the additional files, in the [selected version](https://modrinth.com/resourcepack/pg.pack/versions 'Versions').
-
 # Credits:
 ### Ray_savage for the [Optifine Sky](https://www.planetminecraft.com/texture-pack/milkyway-galaxy-night-sky/ 'Milkyway Galaxy Night Sky')
 ### DartCat25 for a part of [menu code](https://www.planetminecraft.com/texture-pack/menus-enchanted/ 'Menus - Enchanted') (modified)
@@ -54,8 +62,8 @@ The Azzurra adds vanilla-friendly features, vanilla shaders, building tweaks and
 # Disclaimer
 Some of differenti Rendering Mod/Client like: Optifine, Sodium, Canvas, Iris do not allow some Shader rendertypes to work: Example, If you use Sodium you will not see the Wawy Water and Tree Leaves Shaders but you will see the Wawy Cape.  Not a problem to report, they don't work because the Mods/Clients override the Minecraft Rendertype system.  If you want a full experience with my Vanilla Shaders play Minecraft without Mods/Clients affecting Rendertypes
 
+![Azzurra Logo](https://i.imgur.com/R8KRwEq.png)
 
-# Azzurra
 Questa è la mia Resoucepack, la Azzurra. Il pacchetto cerca di essere compatibile con tutte le versioni di Minecraft, se si vuole avere un'esperienza migliore utilizzare le versioni di Minecraft superiori alla 1.17 snapshot 21w10a. 
 Ho creato questo pacchetto per la necessità di avere un Minecraft che si potesse giocare ammirandolo e senza grandi stravolgimenti, volevo realizzare le idee che mi venivano in mente. Dopo molti pacchetti mi è venuto in mente di mettere insieme le pack che avevo accumulato negli anni: Le prime versioni del Pigi Pack, New Menus Pack, Overlayed Texture. Così ho modificato il pacchetto per renderlo compatibile, corretto bug e rinominato la Pigi Pack in Pg Pack. La prima versione della Pigi Pack si chiamava Obsidian Light ed è stata creata nel 2018. Obsidian Light era inizialmente un test per provare nuovi font e creare piccole shader.
 La Azzurra aggiunge funzionalità vanilla-friendly, shader vanilla, core shaders e molte innovazione per le build, ha il mod support per fabric e forge.
@@ -64,6 +72,19 @@ La Azzurra aggiunge funzionalità vanilla-friendly, shader vanilla, core shaders
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/95828422a7bccc7fe2ea8aa02bafd9e21b99a195.png)
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/078a78237f1c17db0d9a569809a17f3bd8ca2659.png)
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/63efaa1f5232e2cbc907e210c311f8b79024c223.png)
+
+
+
+
+![Add-ons](https://i.imgur.com/CXrL4To.png)
+## RCP
+- Aggiunge maggiore efficienza e compatibilità con le versioni dalla 1.19.2 alla 1.11 e permette ad Azzurra di funzionare bene in queste versioni. Da utilizzare solo se si usano queste versioni!
+## CRT
+- Dà la percezione di star giocando su un televisore a tubo catodico, è molto consigiliato usarlo quando si vuole avere una visione diversa del mondo. Per utilizzarlo bisogna attivare la grafica Fabula
+
+![CRT](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/401ae539197237caac13a922dd6ede2d8ce62703.png)
+
+# Tutti gli Add-on sono presenti nella zip della pack e sono dipendenti da essa, non possono essere giocati senza. Per utilizzare gli Add-on bisogna metterli sopra la pack principale.
 
  # Preferenze nelle impostazioni:
 ## [Lingua](https://github.com/pg-c/Pg-Pack/tree/main/assets/minecraft/lang)
@@ -79,7 +100,6 @@ La Azzurra aggiunge funzionalità vanilla-friendly, shader vanilla, core shaders
 ## [REI](https://modrinth.com/mod/rei)
 - Dark Theme: ON
 
-
  # Supporta:
 |Clients|Mods|Render|Graphics|Shaders|
 |:---------------------:|:---------------------:|:---------------------:|:-----------------------------:|:--------------------:|
@@ -91,11 +111,6 @@ La Azzurra aggiunge funzionalità vanilla-friendly, shader vanilla, core shaders
 ||[No Chat Reports](https://modrinth.com/mod/no-chat-reports 'No Chat Reports')||||
 ||[Auth Me](https://modrinth.com/mod/auth-me 'Auth Me')|||
 ||[Loading Backgrounds](https://modrinth.com/mod/loading-backgrounds 'Loading Backgrounds')|
-
-![CRT](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/401ae539197237caac13a922dd6ede2d8ce62703.png)
-
-## Dalla 1.11 alla 1.19.2
-### Per attivare questa funzione utilizza l'Add-on RCP (Retro Compatible Pack), lo si trova nei file aggiuntivi, nella [versione selezionata](https://modrinth.com/resourcepack/pg.pack/versions 'Versioni').
 
  # Crediti:
 ### Ray_savage per l'[Optifine Sky](https://www.planetminecraft.com/texture-pack/milkyway-galaxy-night-sky/ 'Milkyway Galaxy Night Sky')
