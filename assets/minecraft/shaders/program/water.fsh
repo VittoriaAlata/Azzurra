@@ -17,7 +17,7 @@ varying float aspectRatio;
 #define APPROX_SCATTER 0.01
 #define NORMAL_SCATTER 0.004
 #define NORMRAD 5
-#define FOV_FIXEDPOINT 100.0
+#define FOV_FIXEDPOINT 1.0
 
 #define near 0.00004882812 
 #define far 1.0

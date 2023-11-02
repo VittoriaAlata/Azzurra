@@ -33,10 +33,10 @@ void main() {
     float xs = 0.0;
     float ys = 0.0;
     float zs = 0.0;
-    float m0 = distance(Position.xz, vec2(8.0, 8.0)) * 10.0;
+    float m0 = distance(Position.xz, vec2(8.0, 8.0)) * 15.0;
     if (Color.r < Color.b) {
-        xs = sin(position.x + animation) * cos(GameTime * 300);
-        ys = cos(m0 + animation) * 0.65;
+        xs = sin(position.x + animation) * cos(GameTime * 500);
+        ys = cos(m0 + animation) * 0.75;
         zs = cos(position.z + animation) * sin(GameTime * 300);
     }
 
