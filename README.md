@@ -62,6 +62,14 @@ The Azzurra adds vanilla-friendly features, vanilla shaders, building tweaks and
 # Disclaimer
 Some of differenti Rendering Mod/Client like: Optifine, Sodium, Canvas, Iris do not allow some Shader rendertypes to work: Example, If you use Sodium you will not see the Wawy Water and Tree Leaves Shaders but you will see the Wawy Cape.  Not a problem to report, they don't work because the Mods/Clients override the Minecraft Rendertype system.  If you want a full experience with my Vanilla Shaders play Minecraft without Mods/Clients affecting Rendertypes
 
+# Other Projects
+
+<a href="https://modrinth.com/resourcepack/samotracia">
+    <p align="center">
+        <img src="https://i.imgur.com/RnDNObj.png" alt="Samotracia" width="1200"/> 
+    </p>
+</a>
+
 ![Azzurra Logo](https://i.imgur.com/R8KRwEq.png)
 
 Questa è la mia Resoucepack, la Azzurra. Il pacchetto cerca di essere compatibile con tutte le versioni di Minecraft, se si vuole avere un'esperienza migliore utilizzare le versioni di Minecraft superiori alla 1.17 snapshot 21w10a. 
@@ -125,3 +133,11 @@ La Azzurra aggiunge funzionalità vanilla-friendly, shader vanilla, core shaders
 
  # Avviso
  Alcuni dei diversi Rendering Mod/Client come: Optifine, Sodium, Canvas, Iris non consentono il funzionamento di alcuni tipi di rendering Shader: Esempio, se usi Sodium non vedrai gli Shader Wawy Water e Tree Leaves ma vedrai Wawy Cape.  Non è un problema da segnalare, non funzionano perché i Mod/Client sovrascrivono il sistema Rendertype di Minecraft.  Se vuoi un'esperienza completa con i miei Vanilla Shader, gioca a Minecraft senza Mod/Client che influenzano i tipi di rendering
+
+# Altri Progetti
+
+<a href="https://modrinth.com/resourcepack/samotracia">
+    <p align="center">
+        <img src="https://i.imgur.com/RnDNObj.png" alt="Samotracia" width="1200"/> 
+    </p>
+</a>
