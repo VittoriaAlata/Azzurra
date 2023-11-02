@@ -58,6 +58,7 @@ The Azzurra adds vanilla-friendly features, vanilla shaders, building tweaks and
 ### bradleyq for [Vanilla Fabulous shaders](https://github.com/bradleyq/mc_vanilla_shaders 'Vanilla Fabulous Shaders') (modified)
 ### AppleWormGuy for [Pigstep disc](https://soundcloud.com/pine-jr/courage-the-cowardly-dog-the-tower-of-dr-zalost-opening-theme?in=pine-jr/sets/courage-the-cowardly-dog&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing 'Courage The Cowardly Dog Soundtrack')
 ### Ultimecia for [Final Fantasy Hand](https://www.spriters-resource.com/playstation/finalfantasychroniclesfinalfantasy4/sheet/24972/ 'Final Fantasy Chronicles: Final Fantasy 4 Resource')
+### bradleyq for [Smooth Clouds](https://github.com/bradleyq/shader-toolkit/)
 
 # Disclaimer
 Some of differenti Rendering Mod/Client like: Optifine, Sodium, Canvas, Iris do not allow some Shader rendertypes to work: Example, If you use Sodium you will not see the Wawy Water and Tree Leaves Shaders but you will see the Wawy Cape.  Not a problem to report, they don't work because the Mods/Clients override the Minecraft Rendertype system.  If you want a full experience with my Vanilla Shaders play Minecraft without Mods/Clients affecting Rendertypes
@@ -130,6 +131,7 @@ La Azzurra aggiunge funzionalità vanilla-friendly, shader vanilla, core shaders
 ### bradleyq per la [Vanilla Fabulous shaders](https://github.com/bradleyq/mc_vanilla_shaders 'Vanilla Fabulous Shaders') (modificato)
 ### AppleWormGuy per il [disco Pigstep](https://soundcloud.com/pine-jr/courage-the-cowardly-dog-the-tower-of-dr-zalost-opening-theme?in=pine-jr/sets/courage-the-cowardly-dog&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing 'Courage The Cowardly Dog Soundtrack')
 ### Ultimecia per la [mano di Final Fantasy](https://www.spriters-resource.com/playstation/finalfantasychroniclesfinalfantasy4/sheet/24972/ 'Final Fantasy Chronicles: Final Fantasy 4 Resource')
+### bradleyq per la [Smooth Clouds](https://github.com/bradleyq/shader-toolkit/)
 
  # Avviso
  Alcuni dei diversi Rendering Mod/Client come: Optifine, Sodium, Canvas, Iris non consentono il funzionamento di alcuni tipi di rendering Shader: Esempio, se usi Sodium non vedrai gli Shader Wawy Water e Tree Leaves ma vedrai Wawy Cape.  Non è un problema da segnalare, non funzionano perché i Mod/Client sovrascrivono il sistema Rendertype di Minecraft.  Se vuoi un'esperienza completa con i miei Vanilla Shader, gioca a Minecraft senza Mod/Client che influenzano i tipi di rendering
