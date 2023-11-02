@@ -29,11 +29,11 @@ void main() {
     vec3 pos = Position + ChunkOffset;
 	vec3 position = Position / 2.0 * pi;
     float animation = GameTime * 4000.0;
+    float m0 = distance(Position.xz, vec2(8.0, 8.0)) * 7.0;
 
     float xs = 0.0;
-    float ys = 0.0;
     float zs = 0.0;
-    float m0 = distance(Position.xz, vec2(8.0, 8.0)) * 7.0;
+    float ys = 0.0;
 	float alpha = texture(Sampler0, UV0).a * 255.0;
     if (alpha == 1.0 || alpha == 2.0 || alpha == 253.0) {
         xs = sin(position.x + animation) * cos(GameTime * 300);
@@ -42,7 +42,6 @@ void main() {
     }
     if (alpha == 2.0) {
         xs *= 2.0;
-        ys *= 2.0;
         zs *= 2.0;
 
     }
