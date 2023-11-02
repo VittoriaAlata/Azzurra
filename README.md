@@ -13,9 +13,12 @@ The Azzurra adds vanilla-friendly features, vanilla shaders, building tweaks and
 
 
 ![Add-ons](https://i.imgur.com/CXrL4To.png)
-## RCP
+## [RCP](https://drive.google.com/file/d/1iuN2L3XMvv7UTf_xjLlbVDekQKhXrxE1/view?usp=sharing)
 - Adds greater efficiency and compatibility with versions from 1.19.2 to 1.11 and allows Azzurra to work well in these versions. To be used only if you use these versions!
-## CRT
+## [8-bit](https://drive.google.com/file/d/1jlB9aXPYm9f4PD1Yxf3v46PPDD4pVfAA/view?usp=sharing)
+- Uses 8-bit color with half the resolution, with a dithering effect.
+This is a reference to how many of Notch's other games use a similar overlay. To use it you need to activate Fabula graphics
+## [CRT](https://drive.google.com/file/d/1iuLVzctK1406CYJziw57ZZ3vApgsHion/view?usp=sharing)
 - It gives the perception of playing on a cathode ray tube television, it is highly recommended to use it when you want to have a different vision of the world. To use it you need to activate Fabula graphics
 
 ![CRT](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/401ae539197237caac13a922dd6ede2d8ce62703.png)
@@ -86,9 +89,12 @@ La Azzurra aggiunge funzionalità vanilla-friendly, shader vanilla, core shaders
 
 
 ![Add-ons](https://i.imgur.com/CXrL4To.png)
-## RCP
+## [RCP](https://drive.google.com/file/d/1iuN2L3XMvv7UTf_xjLlbVDekQKhXrxE1/view?usp=sharing)
 - Aggiunge maggiore efficienza e compatibilità con le versioni dalla 1.19.2 alla 1.11 e permette ad Azzurra di funzionare bene in queste versioni. Da utilizzare solo se si usano queste versioni!
-## CRT
+## [8-bit](https://drive.google.com/file/d/1jlB9aXPYm9f4PD1Yxf3v46PPDD4pVfAA/view?usp=sharing)
+- Utilizza colori a 8 bit con metà della risoluzione, con un effetto dithering.
+Questo è un riferimento a quanti altri giochi di Notch utilizzano un overlay simile. Per utilizzarlo bisogna attivare la grafica Fabula
+## [CRT](https://drive.google.com/file/d/1iuLVzctK1406CYJziw57ZZ3vApgsHion/view?usp=sharing)
 - Dà la percezione di star giocando su un televisore a tubo catodico, è molto consigiliato usarlo quando si vuole avere una visione diversa del mondo. Per utilizzarlo bisogna attivare la grafica Fabula
 
 ![CRT](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/401ae539197237caac13a922dd6ede2d8ce62703.png)
