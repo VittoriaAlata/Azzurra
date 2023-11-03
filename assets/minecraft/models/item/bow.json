@@ -2,8 +2,8 @@
 	"credit": "Made by Pg_c",
 	"texture_size": [128, 128],
 	"textures": {
-		"particle": "item/bow_hunters_promise",
-		"bow": "item/bow_hunters_promise"
+		"particle": "item/items",
+		"bow": "item/items"
 	},
 	"elements": [
 		{

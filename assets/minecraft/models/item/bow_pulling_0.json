@@ -2,8 +2,8 @@
 	"credit": "Made by Pg_c",
 	"texture_size": [128, 128],
 	"textures": {
-		"particle": "item/bow_hunters_promise",
-		"bowp0": "item/bow_hunters_promise"
+		"particle": "item/items",
+		"bowp0": "item/items"
 	},
 	"elements": [
 		{
@@ -379,7 +379,7 @@
 			"to": [11.27, 5.89411, 13.65147],
 			"rotation": {"angle": 45, "axis": "x", "origin": [8.785, 5.89411, 9.15147]},
 			"faces": {
-				"up": {"uv": [14, 12, 12, 12.6], "rotation": 270, "texture": "#bowp0"},
+				"up": {"uv": [12, 12, 14, 12.6], "rotation": 270, "texture": "#bowp0"},
 				"down": {"uv": [14, 12, 12, 12.6], "rotation": 270, "texture": "#bowp0"}
 			}
 		}
