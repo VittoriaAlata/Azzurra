@@ -72,9 +72,26 @@ void main() {
             }
             return;
         }
-        offset = pixel - ivec2(1825, 5);
+        offset = pixel - ivec2(10, 85);
         if (offset.x >= 0 && offset.y >= 0 && offset.x < 514 && offset.y < 12) {
-            uint[] TEXT = uint[]( _V, _2, _DOT, _1, _1, _DOT, _0, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE);
+            uint[] TEXT = uint[]( _V, _2, _DOT, _1, _2, _DOT, _0, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE);
+            for (int i = 0; i < 43; i++) {
+                int startX = i * 12;
+                int endX = startX + 10;
+                if (offset.x < endX) {
+                    bool pixelOn = getPixel(TEXT[i], (offset.x - startX) / 2, offset.y / 2);
+                    fragColor = pixelOn ? textColor : backgroundColor;
+                    break;
+                } else if (offset.x < endX + 2) {
+                    fragColor = backgroundColor;
+                    break;
+                }
+            }
+            return;
+        }
+        offset = pixel - ivec2(10, 65);
+        if (offset.x >= 0 && offset.y >= 0 && offset.x < 514 && offset.y < 12) {
+            uint[] TEXT = uint[]( _8, _DOT, _1, _1, _DOT, _2, _0, _2, _3, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE);
             for (int i = 0; i < 43; i++) {
                 int startX = i * 12;
                 int endX = startX + 10;
