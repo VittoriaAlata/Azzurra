@@ -51,6 +51,8 @@ This is a reference to how many of Notch's other games use a similar overlay. To
 ||[Auth Me](https://modrinth.com/mod/auth-me 'Auth Me')|||
 ||[Loading Backgrounds](https://modrinth.com/mod/loading-backgrounds 'Loading Backgrounds')|
 
+# [Azzurra Database & SHA256 checksums](https://docs.google.com/spreadsheets/d/1L7rh2eGbIVtdhdL4ArYxvMm1Aq8XLyUWDzrZNIJfcyU/edit?usp=sharing)
+
 # Credits:
 ### Ray_savage for the [Optifine Sky](https://www.planetminecraft.com/texture-pack/milkyway-galaxy-night-sky/ 'Milkyway Galaxy Night Sky')
 ### DartCat25 for a part of [menu code](https://www.planetminecraft.com/texture-pack/menus-enchanted/ 'Menus - Enchanted') (modified)
@@ -127,6 +129,8 @@ Questo è un riferimento a quanti altri giochi di Notch utilizzano un overlay si
 ||[No Chat Reports](https://modrinth.com/mod/no-chat-reports 'No Chat Reports')||||
 ||[Auth Me](https://modrinth.com/mod/auth-me 'Auth Me')|||
 ||[Loading Backgrounds](https://modrinth.com/mod/loading-backgrounds 'Loading Backgrounds')|
+
+# [Azzurra Database & SHA256 checksums](https://docs.google.com/spreadsheets/d/1L7rh2eGbIVtdhdL4ArYxvMm1Aq8XLyUWDzrZNIJfcyU/edit?usp=sharing)
 
  # Crediti:
 ### Ray_savage per l'[Optifine Sky](https://www.planetminecraft.com/texture-pack/milkyway-galaxy-night-sky/ 'Milkyway Galaxy Night Sky')
