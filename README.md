@@ -2,8 +2,10 @@
     <h1>
        <img alt="Azzurra" src="https://i.imgur.com/R8KRwEq.png">
     </h1>
-    <a href="https://github.com/VittoriaAlata/Azzurra"><img alt="GitHub release" src="https://img.shields.io/github/v/release/VittoriaAlata/Azzurra?style=social&label=latest&link=https://github.com/VittoriaAlata/Azzurra">
-    <a href="https://modrinth.com/resourcepack/azzurra"><img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/OHgmhjd3?style=social&logo=modrinth&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Fazzurra"></a>
+       <a href="https://github.com/VittoriaAlata/Azzurra"><img alt="GitHub release" src="https://img.shields.io/github/v/release/VittoriaAlata/Azzurra?style=social&label=latest&link=https://github.com/VittoriaAlata/Azzurra">
+       <a href="https://modrinth.com/resourcepack/azzurra"><img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/OHgmhjd3?style=social&logo=modrinth&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Fazzurra">
+       <a href=https://github.com/VittoriaAlata/Azzurra/issues><img alt="Issues" src="https://img.shields.io/github/issues/VittoriaAlata/Azzurra?style=social&label=Issues&link=https://github.com/VittoriaAlata/Azzurra">
+    </a>
 </div>
 
 ---  
@@ -88,8 +90,10 @@ Some of differenti Rendering Mod/Client like: Optifine, Sodium, Canvas, Iris do 
     <h1>
        <img alt="Azzurra" src="https://i.imgur.com/R8KRwEq.png">
     </h1>
-    <a href="https://github.com/VittoriaAlata/Azzurra"><img alt="GitHub release" src="https://img.shields.io/github/v/release/VittoriaAlata/Azzurra?style=social&label=latest&link=https://github.com/VittoriaAlata/Azzurra">
-    <a href="https://modrinth.com/resourcepack/azzurra"><img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/OHgmhjd3?style=social&logo=modrinth&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Fazzurra"></a>
+       <a href="https://github.com/VittoriaAlata/Azzurra"><img alt="GitHub release" src="https://img.shields.io/github/v/release/VittoriaAlata/Azzurra?style=social&label=latest&link=https://github.com/VittoriaAlata/Azzurra">
+       <a href="https://modrinth.com/resourcepack/azzurra"><img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/OHgmhjd3?style=social&logo=modrinth&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Fazzurra">
+       <a href=https://github.com/VittoriaAlata/Azzurra/issues><img alt="Issues" src="https://img.shields.io/github/issues/VittoriaAlata/Azzurra?style=social&label=Issues&link=https://github.com/VittoriaAlata/Azzurra">
+    </a>
 </div>
 
 ---
