@@ -10,12 +10,12 @@
 In the first release of the pack the pack was then called Azzurra from the name of its creator.
 The Azzurra adds vanilla-friendly features, vanilla shaders, building tweaks and mod support for fabric and forge.
     </p>
-
+</div>
+        
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/2bcc2f3b67f838e75cbbb7cd5cf84e72142802ae.png)
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/95828422a7bccc7fe2ea8aa02bafd9e21b99a195.png)
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/078a78237f1c17db0d9a569809a17f3bd8ca2659.png)
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/63efaa1f5232e2cbc907e210c311f8b79024c223.png)
-
 
 
 ![Add-ons](https://i.imgur.com/CXrL4To.png)
@@ -94,7 +94,8 @@ Questa è la mia Resoucepack, la Azzurra. Il pacchetto cerca di essere compatibi
 Ho creato questo pacchetto per la necessità di avere un Minecraft che si potesse giocare ammirandolo e senza grandi stravolgimenti, volevo realizzare le idee che mi venivano in mente. Dopo molti pacchetti mi è venuto in mente di mettere insieme le pack che avevo accumulato negli anni: Le prime versioni del Pigi Pack, New Menus Pack, Overlayed Texture. Così ho modificato il pacchetto per renderlo compatibile, corretto bug e rinominato la Pigi Pack in Pg Pack. La prima versione della Pigi Pack si chiamava Obsidian Light ed è stata creata nel 2018. Obsidian Light era inizialmente un test per provare nuovi font e creare piccole shader.
 La Azzurra aggiunge funzionalità vanilla-friendly, shader vanilla, core shaders e molte innovazione per le build, ha il mod support per fabric e forge.
     </p>
-
+    </div>
+        
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/2bcc2f3b67f838e75cbbb7cd5cf84e72142802ae.png)
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/95828422a7bccc7fe2ea8aa02bafd9e21b99a195.png)
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/078a78237f1c17db0d9a569809a17f3bd8ca2659.png)
