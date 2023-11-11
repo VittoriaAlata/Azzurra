@@ -5,7 +5,9 @@
     <img alt="GitHub release" src="https://img.shields.io/github/v/release/VittoriaAlata/Azzurra?style=social&label=latest&link=https://github.com/VittoriaAlata/Azzurra/">
     <a href="https://modrinth.com/resourcepack/azzurra"><img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/OHgmhjd3?style=social&logo=modrinth&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Fazzurra"></a>
 </div>
-        
+
+---  
+
 This is my resource pack, Azzurra. The pack tries to be compatible with all Minecraft versions, if you want to have a better experience use Minecraft versions higher than 1.17 snapshot 21w10a.
 I created this package for the need to have a Minecraft that you could play admiring it and without large upheavals, I wanted to realize the ideas that came to mind. Afther many packs it occurred to me to put together my packs: The first versions of the Pigi Pack, New Menus Pack, Overlayed Texture.  So I modified the package to make it compatible, fixed multiple bugs and renamed the Pigi Pack to Pg Pack. The first version of the Pigi Pack was called Obsidian Light and it was created in 2018. Obsidian Light was initially a test to see new fonts and create small shaders.
 In the first release of the pack the pack was then called Azzurra from the name of its creator.
@@ -89,7 +91,9 @@ Some of differenti Rendering Mod/Client like: Optifine, Sodium, Canvas, Iris do 
     <img alt="GitHub release" src="https://img.shields.io/github/v/release/VittoriaAlata/Azzurra?style=social&label=latest&link=https://github.com/VittoriaAlata/Azzurra/">
     <a href="https://modrinth.com/resourcepack/azzurra"><img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/OHgmhjd3?style=social&logo=modrinth&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Fazzurra"></a>
 </div>
-        
+
+---
+
 Questa è la mia Resoucepack, la Azzurra. Il pacchetto cerca di essere compatibile con tutte le versioni di Minecraft, se si vuole avere un'esperienza migliore utilizzare le versioni di Minecraft superiori alla 1.17 snapshot 21w10a. 
 Ho creato questo pacchetto per la necessità di avere un Minecraft che si potesse giocare ammirandolo e senza grandi stravolgimenti, volevo realizzare le idee che mi venivano in mente. Dopo molti pacchetti mi è venuto in mente di mettere insieme le pack che avevo accumulato negli anni: Le prime versioni del Pigi Pack, New Menus Pack, Overlayed Texture. Così ho modificato il pacchetto per renderlo compatibile, corretto bug e rinominato la Pigi Pack in Pg Pack. La prima versione della Pigi Pack si chiamava Obsidian Light ed è stata creata nel 2018. Obsidian Light era inizialmente un test per provare nuovi font e creare piccole shader.
 La Azzurra aggiunge funzionalità vanilla-friendly, shader vanilla, core shaders e molte innovazione per le build, ha il mod support per fabric e forge.
