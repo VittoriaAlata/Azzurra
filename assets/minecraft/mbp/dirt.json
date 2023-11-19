@@ -1,0 +1,13 @@
+{
+  "overrides": [
+  {
+    "when": {
+        "adjacent_block": {
+            "state": "minecraft:snow_block",
+            "offset": { "x": 0, "y": 1, "z": 0 }
+        }
+    },
+    "apply": "azzurra:dirt_snowy"
+}
+  ]
+}
