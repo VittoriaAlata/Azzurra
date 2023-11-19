@@ -35,9 +35,9 @@ void main() {
     float zs = 0.0;
     float m0 = distance(Position.xz, vec2(8.0, 8.0)) * 15.0;
     if (Color.r < Color.b) {
-        xs = sin(position.x + animation) * cos(GameTime * 500);
+        xs = sin(position.x + animation);
         ys = cos(m0 + animation) * 0.75;
-        zs = cos(position.z + animation) * sin(GameTime * 300);
+        zs = cos(position.z + animation);
     }
 
     gl_Position = ProjMat * ModelViewMat * (vec4(pos, 1.0) + vec4(xs / 32.0, ys / 24.0, zs / 32.0, 0.0));
