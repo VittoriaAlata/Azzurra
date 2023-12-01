@@ -1,38 +1,4 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "block/block",
-	"textures": {
-		"4": "block/grass_block_top_overlay",
-		"particle": "block/dirt",
-		"bottom": "block/dirt",
-		"top": "block/grass_block_top",
-		"overlay": "block/grass_block_side_overlay"
-	},
-	"elements": [
-		{
-			"from": [0, 0, 0],
-			"to": [16, 16, 16],
-			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "up", "tintindex": 0},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
-			}
-		},
-		{
-			"from": [0, 0, 0],
-			"to": [16, 16, 16],
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#overlay", "cullface": "north", "tintindex": 0},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#overlay", "cullface": "east", "tintindex": 0},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#overlay", "cullface": "south", "tintindex": 0},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#overlay", "cullface": "west", "tintindex": 0}
-			}
-		},
-		{
-			"from": [0, 16.3, 0],
-			"to": [16, 16.3, 16],
-			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "texture": "#4", "cullface": "up", "tintindex": 0}
-			}
-		}
-	]
+	"credit": "Copyright (c) 2023 Vittoria",
+	"parent": "azzurra:block/grass_block"
 }
