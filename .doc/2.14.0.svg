@@ -1,0 +1,144 @@
+<svg
+  id="_oxcevt"
+  viewBox="0 0 650 250"
+  fill="#000000"
+  xmlns="http://www.w3.org/2000/svg"
+  aria-labelledby="_oxcevt_title _oxcevt_desc"
+>
+  <title>
+    Countdown timer to: 2023-12-26T18:00:00.000-05:00
+  </title>
+  <desc>
+    A countdown timer to 2023-12-26T18:00:00.000-05:00 with days, hours, minutes, and seconds displayed.
+  </desc>
+  
+  <rect 
+    x="0" 
+    y="0" 
+    width="650" 
+    height="250" 
+    style="fill: #ffffff;" 
+  />
+
+  <text 
+    x="12.5%" 
+    y="55%" 
+    text-anchor="middle" 
+    name="days">
+    -
+  </text>
+  <text 
+    x="12.5%" 
+    y="75%" 
+    class="label" 
+    text-anchor="middle">
+    Days
+  </text>
+
+  <text 
+    x="37.5%" 
+    y="55%" 
+    text-anchor="middle" 
+    name="hours">
+    -
+  </text>
+  <text 
+    x="37.5%" 
+    y="75%" 
+    class="label" 
+    text-anchor="middle">
+    Hours
+  </text>
+
+  <text 
+    x="62.5%" 
+    y="55%" 
+    text-anchor="middle" 
+    name="minutes">
+    -
+  </text>
+  <text 
+    x="62.5%" 
+    y="75%" 
+    class="label" 
+    text-anchor="middle">
+    Minutes
+  </text>
+
+  <text 
+    x="87.5%" 
+    y="55%" 
+    text-anchor="middle" 
+    name="seconds">
+    -
+  </text>
+  <text 
+    x="87.5%" 
+    y="75%" 
+    class="label" 
+    text-anchor="middle">
+    Seconds
+  </text>
+
+  <text
+    x="50%"
+    y="50%"
+    text-anchor="middle"
+    name="end"
+    class="label"
+    visibility="hidden">
+    Expired
+  </text>
+
+  <script type="text/javascript">
+      (() => {
+        const loadTime = new Date("2023-12-26T18:00:00.000-05:00");
+        const [days, hours, minutes, seconds, end] = document.querySelectorAll('svg > [name]');
+        const run= () => {
+          const timeDiff = loadTime - Date.now();
+          const totalSeconds = Math.max(0, Math.floor(timeDiff / 1000));
+          const expired = totalSeconds <= 0;
+          const [daysDiff, hoursDiff, minutesDiff, secondsDiff] = [
+            Math.max(Math.floor(totalSeconds / 86400), 0),
+            Math.max(Math.floor((totalSeconds % 86400) / 3600), 0),
+            Math.max(Math.floor((totalSeconds % 3600) / 60), 0),
+            Math.max(totalSeconds % 60, 0)
+          ];
+          days.textContent = daysDiff.toLocaleString();
+          hours.textContent = hoursDiff;
+          minutes.textContent = minutesDiff;
+          seconds.textContent = secondsDiff;
+          if( expired ) {
+            clearInterval(window.countdown_timer);
+            document.querySelectorAll('text').forEach((el) => el.setAttribute(
+              'visibility', 
+              el.getAttribute("visibility") === "hidden" ? "visible" : "hidden"
+            ));
+            
+          };
+        };
+        window.countdown_timer = setInterval(run, 1000);
+        run();
+      })();
+  </script>
+
+  <style type="text/css">
+    @import url('https://fonts.googleapis.com/css2?family=Abril%20Fatface:wght@400;600&display=swap');
+    #_oxcevt {
+      font-family: Abril Fatface;
+      height: 100%;
+      width: 100%;
+      max-width: 650px;
+      max-height: 250px;
+      preserveAspectRatio: xMidYMid meet;
+    }
+    #_oxcevt text {
+      font-size: 6rem;
+      font-weight: 600;
+    }
+    #_oxcevt text.label {
+      font-size: 2rem;
+      font-weight: 400;
+    }
+  </style>
+</svg>
