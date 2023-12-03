@@ -14,19 +14,24 @@ This is my resource pack, Azzurra. The pack tries to be compatible with all Mine
 I created this package for the need to have a Minecraft that you could play admiring it and without large upheavals, I wanted to realize the ideas that came to mind. Afther many packs it occurred to me to put together my packs: The first versions of the Pigi Pack, New Menus Pack, Overlayed Texture.  So I modified the package to make it compatible, fixed multiple bugs and renamed the Pigi Pack to Pg Pack. The first version of the Pigi Pack was called Obsidian Light and it was created in 2018. Obsidian Light was initially a test to see new fonts and create small shaders.
 In the first release of the pack the pack was then called Azzurra from the name of its creator.
 The Azzurra adds vanilla-friendly features, vanilla shaders, building tweaks and mod support for fabric and forge.
-        
-![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/2bcc2f3b67f838e75cbbb7cd5cf84e72142802ae.png)
-![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/95828422a7bccc7fe2ea8aa02bafd9e21b99a195.png)
+
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/078a78237f1c17db0d9a569809a17f3bd8ca2659.png)
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/63efaa1f5232e2cbc907e210c311f8b79024c223.png)
+![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/2bcc2f3b67f838e75cbbb7cd5cf84e72142802ae.png)
+![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/95828422a7bccc7fe2ea8aa02bafd9e21b99a195.png)
+![Azzurra](https://cdn.modrinth.com/data/OHgmhjd3/images/bee5c28459ee3ff335e232ec5fe503ab3c166bcb.png)
 
 
 ![Add-ons](https://i.imgur.com/CXrL4To.png)
 ## [RCP](https://drive.google.com/file/d/1iuN2L3XMvv7UTf_xjLlbVDekQKhXrxE1/view?usp=sharing)
 - Adds greater efficiency and compatibility with versions from 1.19.2 to 1.11 and allows Azzurra to work well in these versions. To be used only if you use these versions!
+
+
 ## [8-bit](https://drive.google.com/file/d/1jlB9aXPYm9f4PD1Yxf3v46PPDD4pVfAA/view?usp=sharing)
 - Uses 8-bit color with half the resolution, with a dithering effect.
 This is a reference to how many of Notch's other games use a similar overlay. To use it you need to activate Fabula graphics
+
+![8-bit](https://cdn.modrinth.com/data/OHgmhjd3/images/16ab6ba28a3c2fac1d4040d9d5ce1e74d934d153.png)
 ## [CRT](https://drive.google.com/file/d/1iuLVzctK1406CYJziw57ZZ3vApgsHion/view?usp=sharing)
 - It gives the perception of playing on a cathode ray tube television, it is highly recommended to use it when you want to have a different vision of the world. To use it you need to activate Fabula graphics
 
@@ -103,17 +108,25 @@ Questa è la mia Resoucepack, la Azzurra. Il pacchetto cerca di essere compatibi
 Ho creato questo pacchetto per la necessità di avere un Minecraft che si potesse giocare ammirandolo e senza grandi stravolgimenti, volevo realizzare le idee che mi venivano in mente. Dopo molti pacchetti mi è venuto in mente di mettere insieme le pack che avevo accumulato negli anni: Le prime versioni del Pigi Pack, New Menus Pack, Overlayed Texture. Così ho modificato il pacchetto per renderlo compatibile, corretto bug e rinominato la Pigi Pack in Pg Pack. La prima versione della Pigi Pack si chiamava Obsidian Light ed è stata creata nel 2018. Obsidian Light era inizialmente un test per provare nuovi font e creare piccole shader.
 La Azzurra aggiunge funzionalità vanilla-friendly, shader vanilla, core shaders e molte innovazione per le build, ha il mod support per fabric e forge.
     
-![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/2bcc2f3b67f838e75cbbb7cd5cf84e72142802ae.png)
-![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/95828422a7bccc7fe2ea8aa02bafd9e21b99a195.png)
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/078a78237f1c17db0d9a569809a17f3bd8ca2659.png)
 ![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/63efaa1f5232e2cbc907e210c311f8b79024c223.png)
+![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/2bcc2f3b67f838e75cbbb7cd5cf84e72142802ae.png)
+![Azzurra](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/95828422a7bccc7fe2ea8aa02bafd9e21b99a195.png)
+![Azzurra](https://cdn.modrinth.com/data/OHgmhjd3/images/bee5c28459ee3ff335e232ec5fe503ab3c166bcb.png)
 
 ![Add-ons](https://i.imgur.com/CXrL4To.png)
 ## [RCP](https://drive.google.com/file/d/1iuN2L3XMvv7UTf_xjLlbVDekQKhXrxE1/view?usp=sharing)
 - Aggiunge maggiore efficienza e compatibilità con le versioni dalla 1.19.2 alla 1.11 e permette ad Azzurra di funzionare bene in queste versioni. Da utilizzare solo se si usano queste versioni!
+
+
+
 ## [8-bit](https://drive.google.com/file/d/1jlB9aXPYm9f4PD1Yxf3v46PPDD4pVfAA/view?usp=sharing)
 - Utilizza colori a 8 bit con metà della risoluzione, con un effetto dithering.
 Questo è un riferimento a quanti altri giochi di Notch utilizzano un overlay simile. Per utilizzarlo bisogna attivare la grafica Fabula
+
+
+![8-bit](https://cdn.modrinth.com/data/OHgmhjd3/images/16ab6ba28a3c2fac1d4040d9d5ce1e74d934d153.png)
+
 ## [CRT](https://drive.google.com/file/d/1iuLVzctK1406CYJziw57ZZ3vApgsHion/view?usp=sharing)
 - Dà la percezione di star giocando su un televisore a tubo catodico, è molto consigiliato usarlo quando si vuole avere una visione diversa del mondo. Per utilizzarlo bisogna attivare la grafica Fabula
 
