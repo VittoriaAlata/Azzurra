@@ -67,20 +67,6 @@ This is a reference to how many of Notch's other games use a similar overlay. To
 
 # [Azzurra Database & SHA256 checksums](https://docs.google.com/spreadsheets/d/1L7rh2eGbIVtdhdL4ArYxvMm1Aq8XLyUWDzrZNIJfcyU/edit?usp=sharing)
 
-# Credits:
-### Ray_savage for the [Optifine Sky](https://www.planetminecraft.com/texture-pack/milkyway-galaxy-night-sky/ 'Milkyway Galaxy Night Sky')
-### DartCat25 for a part of [menu code](https://www.planetminecraft.com/texture-pack/menus-enchanted/ 'Menus - Enchanted') (modified)
-### Bálint for the [font shader](https://github.com/BalintCsala/Minificent 'Minificent') (modified)
-### Godlander for [leaves shader](https://github.com/Godlander/vpp 'Vanilla ++')
-### McTsts for [remove text shadow](https://github.com/McTsts/mc-core-shaders/tree/main/remove%20text%20shadow 'Remove Text Shadow')
-### McTsts for [wavy water](https://github.com/McTsts/mc-core-shaders/tree/main/wavy%20water 'Wavy Water')
-### bradleyq for [Vanilla Fabulous shaders](https://github.com/bradleyq/mc_vanilla_shaders 'Vanilla Fabulous Shaders') (modified)
-### AppleWormGuy for [Pigstep disc](https://soundcloud.com/pine-jr/courage-the-cowardly-dog-the-tower-of-dr-zalost-opening-theme?in=pine-jr/sets/courage-the-cowardly-dog&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing 'Courage The Cowardly Dog Soundtrack')
-### Ultimecia for [Final Fantasy Hand](https://www.spriters-resource.com/playstation/finalfantasychroniclesfinalfantasy4/sheet/24972/ 'Final Fantasy Chronicles: Final Fantasy 4 Resource')
-### bradleyq for [Smooth Clouds](https://github.com/bradleyq/shader-toolkit/)
-### Vanilla Tweaks for the [fixes](https://vanillatweaks.net/picker/resource-packs/)
-### TheBugCoder for the [smaller fire](https://modrinth.com/resourcepack/better-fire) (modified)
-
 # Disclaimer
 Some of differenti Rendering Mod/Client like: Optifine, Sodium, Canvas, Iris do not allow some Shader rendertypes to work: Example, If you use Sodium you will not see the Wawy Water and Tree Leaves Shaders but you will see the Wawy Cape.  Not a problem to report, they don't work because the Mods/Clients override the Minecraft Rendertype system.  If you want a full experience with my Vanilla Shaders play Minecraft without Mods/Clients affecting Rendertypes
 
@@ -162,20 +148,6 @@ Questo è un riferimento a quanti altri giochi di Notch utilizzano un overlay si
 
 # [Azzurra Database & SHA256 checksums](https://docs.google.com/spreadsheets/d/1L7rh2eGbIVtdhdL4ArYxvMm1Aq8XLyUWDzrZNIJfcyU/edit?usp=sharing)
 
- # Crediti:
-### Ray_savage per l'[Optifine Sky](https://www.planetminecraft.com/texture-pack/milkyway-galaxy-night-sky/ 'Milkyway Galaxy Night Sky')
-### DartCat25 per parte del [codice del menu](https://www.planetminecraft.com/texture-pack/menus-enchanted/ 'Menus - Enchanted') (modificato)
-### Bálint per la [font shader](https://github.com/BalintCsala/Minificent 'Minificent') (modificato)
-### Godlander per la [leaves shader](https://github.com/Godlander/vpp 'Vanilla ++')
-### McTsts per la [remove text shadow](https://github.com/McTsts/mc-core-shaders/tree/main/remove%20text%20shadow 'Remove Text Shadow')
-### McTsts per la [wavy water](https://github.com/McTsts/mc-core-shaders/tree/main/wavy%20water 'Wavy Water')
-### bradleyq per la [Vanilla Fabulous shaders](https://github.com/bradleyq/mc_vanilla_shaders 'Vanilla Fabulous Shaders') (modificato)
-### AppleWormGuy per il [disco Pigstep](https://soundcloud.com/pine-jr/courage-the-cowardly-dog-the-tower-of-dr-zalost-opening-theme?in=pine-jr/sets/courage-the-cowardly-dog&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing 'Courage The Cowardly Dog Soundtrack')
-### Ultimecia per la [mano di Final Fantasy](https://www.spriters-resource.com/playstation/finalfantasychroniclesfinalfantasy4/sheet/24972/ 'Final Fantasy Chronicles: Final Fantasy 4 Resource')
-### bradleyq per la [Smooth Clouds](https://github.com/bradleyq/shader-toolkit/)
-### Vanilla Tweaks per i [fix](https://vanillatweaks.net/picker/resource-packs/)
-### TheBugCoder per lo [smaller fire](https://modrinth.com/resourcepack/better-fire) (modificato)
-
  # Avviso
  Alcuni dei diversi Rendering Mod/Client come: Optifine, Sodium, Canvas, Iris non consentono il funzionamento di alcuni tipi di rendering Shader: Esempio, se usi Sodium non vedrai gli Shader Wawy Water e Tree Leaves ma vedrai Wawy Cape.  Non è un problema da segnalare, non funzionano perché i Mod/Client sovrascrivono il sistema Rendertype di Minecraft.  Se vuoi un'esperienza completa con i miei Vanilla Shader, gioca a Minecraft senza Mod/Client che influenzano i tipi di rendering
 
@@ -186,3 +158,17 @@ Questo è un riferimento a quanti altri giochi di Notch utilizzano un overlay si
         <img src="https://i.imgur.com/RnDNObj.png" alt="Samotracia" width="1200"/> 
     </p>
 </a>
+
+# Credits:
+### Ray_savage for the [Optifine Sky](https://www.planetminecraft.com/texture-pack/milkyway-galaxy-night-sky/ 'Milkyway Galaxy Night Sky')
+### DartCat25 for a part of [menu code](https://www.planetminecraft.com/texture-pack/menus-enchanted/ 'Menus - Enchanted') (modified)
+### Bálint for the [font shader](https://github.com/BalintCsala/Minificent 'Minificent') (modified)
+### Godlander for [leaves shader](https://github.com/Godlander/vpp 'Vanilla ++')
+### McTsts for [remove text shadow](https://github.com/McTsts/mc-core-shaders/tree/main/remove%20text%20shadow 'Remove Text Shadow')
+### McTsts for [wavy water](https://github.com/McTsts/mc-core-shaders/tree/main/wavy%20water 'Wavy Water')
+### bradleyq for [Vanilla Fabulous shaders](https://github.com/bradleyq/mc_vanilla_shaders 'Vanilla Fabulous Shaders') (modified)
+### AppleWormGuy for [Pigstep disc](https://soundcloud.com/pine-jr/courage-the-cowardly-dog-the-tower-of-dr-zalost-opening-theme?in=pine-jr/sets/courage-the-cowardly-dog&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing 'Courage The Cowardly Dog Soundtrack')
+### Ultimecia for [Final Fantasy Hand](https://www.spriters-resource.com/playstation/finalfantasychroniclesfinalfantasy4/sheet/24972/ 'Final Fantasy Chronicles: Final Fantasy 4 Resource')
+### bradleyq for [Smooth Clouds](https://github.com/bradleyq/shader-toolkit/)
+### Vanilla Tweaks for the [fixes](https://vanillatweaks.net/picker/resource-packs/)
+### TheBugCoder for the [smaller fire](https://modrinth.com/resourcepack/better-fire) (modified)
