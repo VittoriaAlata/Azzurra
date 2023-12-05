@@ -172,3 +172,4 @@ Questo è un riferimento a quanti altri giochi di Notch utilizzano un overlay si
 ### bradleyq for [Smooth Clouds](https://github.com/bradleyq/shader-toolkit/)
 ### Vanilla Tweaks for the [fixes](https://vanillatweaks.net/picker/resource-packs/)
 ### TheBugCoder for the [smaller fire](https://modrinth.com/resourcepack/better-fire) (modified)
+### Thanos1716 and ThePotatoKing55 for the [block-items](https://github.com/Thanos1716/2d-block-item-resourcepack) and for their amazing work!
