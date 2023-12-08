@@ -40,11 +40,6 @@ This is a reference to how many of Notch's other games use a similar overlay. To
 # All Add-ons are present in the pack zip and are dependent on it, they cannot be played without it. To use the Add-ons you must place them on top of the main pack.
 
 # Settings Preferences:
-## [Language](https://github.com/pg-c/Pg-Pack/tree/main/assets/minecraft/lang)
-- English: United Kingdom
-- English: United States
-- Italiano: Italia
-- Française: France
 ## Video Settings
 - Graphics : Fancy or Fabulous
 - GUI Scale : 2-3
@@ -121,11 +116,6 @@ Questo è un riferimento a quanti altri giochi di Notch utilizzano un overlay si
 # Tutti gli Add-on sono presenti nella zip della pack e sono dipendenti da essa, non possono essere giocati senza. Per utilizzare gli Add-on bisogna metterli sopra la pack principale.
 
  # Preferenze nelle impostazioni:
-## [Lingua](https://github.com/pg-c/Pg-Pack/tree/main/assets/minecraft/lang)
-- Italiano: Italia
-- Française: France
-- English: United Kingdom
-- English: United States
 ## Impostazioni video
 - Grafica: fantasia o fabula
 - Scala GUI: 2-3
@@ -158,6 +148,13 @@ Questo è un riferimento a quanti altri giochi di Notch utilizzano un overlay si
         <img src="https://i.imgur.com/RnDNObj.png" alt="Samotracia" width="1200"/> 
     </p>
 </a>
+
+# Languages:
+## English
+## Italiano
+## Française
+
+![](https://i.imgur.com/UMYf2z2.png)
 
 # Credits:
 ### Ray_savage for the [Optifine Sky](https://www.planetminecraft.com/texture-pack/milkyway-galaxy-night-sky/ 'Milkyway Galaxy Night Sky')
