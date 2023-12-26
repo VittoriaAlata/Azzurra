@@ -3,9 +3,9 @@
 	"parent": "minecraft:block/block",
 	"textures": {
 		"4": "azzurra:block/grass_block_top_overlay",
-		"particle": "block/dirt",
 		"top": "block/grass_block_top",
-		"overlay": "azzurra:block/grass_block_side_overlay"
+		"overlay": "azzurra:block/grass_block_side_overlay",
+		"particle": "block/dirt"
 	},
 	"elements": [
 		{
@@ -27,8 +27,8 @@
 			}
 		},
 		{
-			"from": [0, 16.3, 0],
-			"to": [16, 16.3, 16],
+			"from": [0, 16.2, 0],
+			"to": [16, 16.2, 16],
 			"faces": {
 				"up": {"uv": [0, 0, 16, 16], "texture": "#4", "cullface": "up", "tintindex": 0}
 			}
