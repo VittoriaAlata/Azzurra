@@ -17,5 +17,14 @@
                 "directory": "A"
             }
         ]
+    },
+        "sodium": {
+        "ignored_shaders": [
+            "rendertype_solid.vsh",
+            "rendertype_translucent.vsh",
+            "rendertype_cutout_mipped.vsh",
+            "fog.glsl",
+            "light.glsl"
+        ]
     }
 }
