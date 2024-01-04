@@ -1,0 +1,120 @@
+# Lines that start with # are comments, and PackSquash ignores them.
+# You can also start a comment in the middle of a line with #, that
+# spans until the end of the line
+
+# Global options
+pack_directory = 'C:\Users\pierl\Desktop\Azzurra'
+output_file_path = 'C:\Users\pierl\Desktop\Azzurra.zip'
+recompress_compressed_files = true
+zip_compression_iterations = 5
+automatic_minecraft_quirks_detection = true
+# The value of this option is ignored due to automatic quirk detection
+# being enabled, but this usually does not matter
+work_around_minecraft_quirks = ['grayscale_images_gamma_miscorrection', 'restrictive_banner_layer_texture_format_check', 'bad_entity_eye_layer_texture_transparency_blending', 'java8_zip_parsing', 'ogg_obfuscation_incompatibility']
+automatic_asset_types_mask_detection = true
+allow_mods = ['OptiFine', 'Minecraft Transit Railway 3']
+skip_pack_icon = false
+validate_pack_metadata_file = true
+ignore_system_and_hidden_files = true
+zip_spec_conformance_level = 'high'
+# These two are actually ignored due to the ZIP spec conformance level
+size_increasing_zip_obfuscation = true
+percentage_of_zip_structures_tuned_for_obfuscation_discretion = 100
+never_store_squash_times = true
+# System dependent values. PackSquash automatically uses appropriate
+# defaults for your system, so usually you should not need to set
+# these
+threads = 4
+spooling_buffers_size = 128 # MiB
+
+# Per-file options below
+
+# A special silence file that for some reason must be kept exactly as-is
+# (usually not the case)
+['assets/craftmine/sounds/special_silence.ogg']
+empty_audio_optimization = false
+
+# Audio several hours long that would take a lot of time to transcode,
+# optimize and validate
+['assets/craftmine/sounds/forest_soundscape.ogg']
+transcode_ogg = false
+two_pass_vorbis_optimization_and_validation = false
+
+# Other Ogg files do not get transcoded
+['**/*?.ogg']
+transcode_ogg = false
+
+# Lossless music files get pitch shifted, compressed with good quality,
+# and obfuscated if allowed by the target Minecraft version
+['**/*?.{flac,wav}']
+ogg_obfuscation = true
+channels = 2
+sampling_frequency = 44100
+target_pitch = 1.5
+bitrate_control_mode = 'VBR'
+target_bitrate_control_metric = 128
+
+# JSON files with comments get prettified and nothing is removed from them
+['**/*?.jsonc']
+minify_json = true
+delete_bloat_keys = false
+
+# Do not allow comments in any JSON file.
+# Comments may be an useful JSON extension for documentation purposes, so
+# please avoid blindly copying and pasting this unless you really want to
+# limit their usage to .jsonc, .jemc, .jpmc, .mcmetac and .bbmodelc files!
+['**/*?.{json,jem,jpm,mcmeta,bbmodel}']
+always_allow_json_comments = false
+
+# Quantize big natural-looking image, doing the highest quality dither
+['assets/craftmine/textures/landscape.png']
+color_quantization_target = 'eight_bit_depth'
+color_quantization_dithering_level = 1
+
+# Compress other textures losslessly no matter what. Keep them small,
+# but don't downsize them
+['**/*?.png']
+image_data_compression_iterations = 15
+color_quantization_target = 'none'
+maximum_width_and_height = 8192
+skip_alpha_optimizations = true
+downsize_if_single_color = false
+
+# Don't minify shaders
+['**/*?.{fsh,vsh,glsl}']
+shader_source_transformation_strategy = 'keep_as_is'
+# It usually is a bad idea to explicitly configure this option. Read
+# its documentation for more details
+#is_top_level_shader = true
+
+# Don't touch Minecraft 1.12.2 or older language files
+['**/*?.lang']
+minify_legacy_language = false
+strip_legacy_language_bom = false
+
+# Don't minify properties files
+['**/*?.properties']
+minify_properties = true
+
+# Don't minify an example command function.
+# Note that command functions are only accepted in data packs, and
+# data packs do not contain other file types shown throughout this
+# example file!
+['data/craftmine/functions/main.mcfunction']
+minify_command_function = false
+
+# Include copyright and authorship information files in any directory.
+# More information:
+# https://www.gnu.org/prep/maintain/html_node/License-Notices.html
+# https://www.gnu.org/prep/maintain/html_node/Recording-Contributors.html
+['**/{COPYING,AUTHORS}']
+force_include = true
+
+['*.png']
+force_include = true
+
+['*.zip']
+force_include = true
+
+['overlays/A/assets/minecraft/textures/gui/title/minecraft.png']
+force_include = true
