@@ -30,6 +30,7 @@ jobs:
         run: echo Hello, world!
 
       # Runs a set of commands using the runners shell
-      - name: Run a script
-        uses: actions/first-interaction@v1.3.0
+      - name: Minecraft-Packr
+        uses: Sindercube/Packr@v2
+            
         
