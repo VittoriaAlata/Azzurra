@@ -1,0 +1,30 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": {
+            "min_inclusive": 3,
+            "max_inclusive": 22
+        },
+        "description": "§1§oAzzurra §6HQ Pack§r              §8Made by Vittoria§r"
+    },
+    "overlays": {
+        "entries": [
+            {
+                "formats": {
+                    "min_inclusive": 18,
+                    "max_inclusive": 22
+                },
+                "directory": "A"
+            }
+        ]
+    },
+        "sodium": {
+        "ignored_shaders": [
+            "rendertype_solid.vsh",
+            "rendertype_translucent.vsh",
+            "rendertype_cutout_mipped.vsh",
+            "fog.glsl",
+            "light.glsl"
+        ]
+    }
+}
