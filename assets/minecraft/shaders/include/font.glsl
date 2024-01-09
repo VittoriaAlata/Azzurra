@@ -45,7 +45,7 @@ const uint      _8 = 488064558u;
 const uint      _9 = 488080942u;
 const uint      _0 = 490399278u;
 const uint _USCORE = 31u;
-const uint  _SCORE = 96u;
+const uint  _SCORE = 1015808u;
 const uint   _DASH = 1015808u;
 const uint   _PLUS = 139432064u;
 
