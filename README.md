@@ -64,8 +64,9 @@ This is a reference to how many of Notch's other games use a similar overlay. To
 ## English
 ## Italiano
 ## Française
+## Русский
 
-![](https://i.imgur.com/UMYf2z2.png)
+![](https://i.imgur.com/wtmHnY3.png)
 
 # [Azzurra Database & SHA256 checksums](https://docs.google.com/spreadsheets/d/1L7rh2eGbIVtdhdL4ArYxvMm1Aq8XLyUWDzrZNIJfcyU/edit?usp=sharing)
 
