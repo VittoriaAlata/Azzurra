@@ -1,8 +1,8 @@
 {
-  "menu.modded": " (Modded, §7Azzurra§r)",
-  "debug.prefix": "§r§3|Debug§r §7Azzurra v2.15.0§r >>",
+  "menu.modded": " (Modded, Azzurra§r)",
+  "debug.prefix": "§r§3|Debug§r Azzurra v2.15.0§r >>",
   "title.multiplayer.other": "Multiplayer 3rd-party Server, Azzurra v2.15.0",
-  "title.credits": "§7Azzurra v2.15.0, §rCopyright Mojang AB. Do not distribute!",
+  "title.credits": "Azzurra v2.15.0, §rCopyright Mojang AB. Do not distribute!",
   "title.multiplayer.lan": "Multiplayer (LAN), Azzurra v2.15.0",
   "title.multiplayer.realms": "Multiplayer (Realms), Azzurra v2.15.0",
   "title.singleplayer": "Singleplayer, Azzurra v2.15.0",

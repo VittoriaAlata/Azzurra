@@ -5,20 +5,9 @@
             "min_inclusive": 3,
             "max_inclusive": 24
         },
-        "description": "§1Azzurra §6HQ Pack§r                 §8§o© Vittoria 2023-2024§r"
+        "description": "§1Azzurra §6HQ Pack§r                 §8§o© Vittoria 2023§r"
     },
-    "overlays": {
-        "entries": [
-            {
-                "formats": {
-                    "min_inclusive": 18,
-                    "max_inclusive": 24
-                },
-                "directory": "A"
-            }
-        ]
-    },
-        "sodium": {
+    "sodium": {
         "ignored_shaders": [
             "rendertype_solid.vsh",
             "rendertype_translucent.vsh",

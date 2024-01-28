@@ -1,8 +1,8 @@
 {
-    "menu.modded": "(Модифицировано, §7Аззурра§r)",
-    "debug.prefix": "§r§3|Debug§r §7Аззурра v2.15.0§r >>",
+    "menu.modded": "(Модифицировано, Аззурра§r)",
+    "debug.prefix": "§r§3|Debug§r Аззурра v2.15.0§r >>",
     "title.multiplayer.other": "Сторонный многопользовательский сервер, Аззурра v2.15.0",
-    "title.credits": "§7Аззурра v2.15.0 ©, §r© Mojang AB. Не распространять!",
+    "title.credits": "Аззурра v2.15.0 ©, §r© Mojang AB. Не распространять!",
     "title.multiplayer.lan": "Мультиплеер (LAN), Аззурра v2.15.0",
     "title.multiplayer.realms": "Мультиплеер (Realms), Аззурра v2.15.0",
     "title.singleplayer": "Одиночная игра, Аззурра v2.15.0",

@@ -20,7 +20,7 @@ void main() {
         ivec2 pixel = ivec2(gl_FragCoord.xy);
         ivec2 offset = pixel - ivec2(10, 45);
         if (offset.x >= 0 && offset.y >= 0 && offset.x < 622 && offset.y < 12) {
-            uint[] TEXT = uint[](_C, _O, _P, _Y, _R, _I, _G, _H, _T, _SPACE, _PARENL, _C, _PARENR, _SPACE, _2, _0, _2, _3, _SCORE, _2, _0, _2, _4, _SPACE, _V, _I, _T, _T, _O, _R, _I, _A, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE);
+            uint[] TEXT = uint[](_C, _O, _P, _Y, _R, _I, _G, _H, _T, _SPACE, _PARENL, _C, _PARENR, _SPACE, _2, _0, _2, _3, _SPACE, _V, _I, _T, _T, _O, _R, _I, _A, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE);
             for (int i = 0; i < 52; i++) {
                 int startX = i * 12;
                 int endX = startX + 10;
@@ -73,7 +73,7 @@ void main() {
         }
         offset = pixel - ivec2(10, 85);
         if (offset.x >= 0 && offset.y >= 0 && offset.x < 514 && offset.y < 12) {
-            uint[] TEXT = uint[]( _V, _2, _DOT, _1, _5, _DOT, _0, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE);
+            uint[] TEXT = uint[]( _V, _2, _DOT, _1, _6, _DOT, _0, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE);
             for (int i = 0; i < 43; i++) {
                 int startX = i * 12;
                 int endX = startX + 10;
@@ -90,7 +90,7 @@ void main() {
         }
         offset = pixel - ivec2(10, 65);
         if (offset.x >= 0 && offset.y >= 0 && offset.x < 514 && offset.y < 12) {
-            uint[] TEXT = uint[]( _2, _5, _DOT, _0, _1, _DOT, _2, _0, _2, _4, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE);
+            uint[] TEXT = uint[]( _2, _4, _DOT, _0, _2, _DOT, _2, _0, _2, _4, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE);
             for (int i = 0; i < 43; i++) {
                 int startX = i * 12;
                 int endX = startX + 10;
