@@ -1,9 +1,9 @@
 {
     "pack": {
-        "pack_format": 32,
+        "pack_format": 29,
         "supported_formats": {
-            "min_inclusive": 32,
-            "max_inclusive": 34
+            "min_inclusive": 25,
+            "max_inclusive": 29
         },
         "description": "§1Azzurra §6HQ Pack§r               §8§o(c) Vittoria 2023§r"
     }
