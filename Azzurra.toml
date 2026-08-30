@@ -3,8 +3,8 @@
 # spans until the end of the line
 
 # Global options
-pack_directory = 'C:\Users\pierl\Desktop\Azzurra'
-output_file_path = 'C:\Users\pierl\Desktop\Azzurra.zip'
+pack_directory = '/home/pierluigi/Documenti/GitHub/Azzurra/'
+output_file_path = '/home/pierluigi/Documenti/GitHub/Azzurra/Azzurra.zip'
 recompress_compressed_files = true
 zip_compression_iterations = 5
 automatic_minecraft_quirks_detection = true
